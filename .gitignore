@@ -30,3 +30,18 @@
 *.exe
 *.out
 *.app
+
+# emacs
+*~
+\#*\#
+
+# projectiles files
+.projectile
+
+# directory configuration
+.dir-locals.el
+
+# ccls
+.ccls/
+
+
